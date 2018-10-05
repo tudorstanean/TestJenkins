@@ -104,7 +104,6 @@
 				C8DB31D0215E4A1B006566F3 /* Frameworks */,
 				C8DB31D1215E4A1B006566F3 /* Resources */,
 				C8DB31EC215E4A9D006566F3 /* Embed Frameworks */,
-				C89E85A4215E69B000D6D83E /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -160,27 +159,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		C89E85A4215E69B000D6D83E /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-			);
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "
-";
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		C8DB31CF215E4A1B006566F3 /* Sources */ = {
@@ -335,7 +313,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = X395E7RJME;
+				DEVELOPMENT_TEAM = TMQ7PR2UWW;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/FrameworkDemoTest",
@@ -357,7 +335,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = X395E7RJME;
+				DEVELOPMENT_TEAM = TMQ7PR2UWW;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/FrameworkDemoTest",
