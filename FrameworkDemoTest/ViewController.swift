@@ -7,13 +7,13 @@
 //
 
 import UIKit
-import TestFramework
+//import TestFramework
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        FrameworkModuleClass.shared.test()
+//        FrameworkModuleClass.shared.test()
     }
     
 }
