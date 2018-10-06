@@ -314,10 +314,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = TMQ7PR2UWW;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/FrameworkDemoTest",
-				);
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/FrameworkDemoTest";
 				INFOPLIST_FILE = FrameworkDemoTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -336,10 +333,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = TMQ7PR2UWW;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/FrameworkDemoTest",
-				);
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/FrameworkDemoTest";
 				INFOPLIST_FILE = FrameworkDemoTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
