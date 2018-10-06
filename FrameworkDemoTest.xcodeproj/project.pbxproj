@@ -12,22 +12,7 @@
 		C8DB31DC215E4A1B006566F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8DB31DA215E4A1B006566F3 /* Main.storyboard */; };
 		C8DB31DE215E4A1D006566F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8DB31DD215E4A1D006566F3 /* Assets.xcassets */; };
 		C8DB31E1215E4A1D006566F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8DB31DF215E4A1D006566F3 /* LaunchScreen.storyboard */; };
-		C8DB31F0215E4B59006566F3 /* TestFramework.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C8DB31ED215E4B19006566F3 /* TestFramework.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		C8DB31EC215E4A9D006566F3 /* Embed Frameworks */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-				C8DB31F0215E4B59006566F3 /* TestFramework.framework in Embed Frameworks */,
-			);
-			name = "Embed Frameworks";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		C8DB31D3215E4A1B006566F3 /* FrameworkDemoTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FrameworkDemoTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -99,7 +84,6 @@
 				C8DB31CF215E4A1B006566F3 /* Sources */,
 				C8DB31D0215E4A1B006566F3 /* Frameworks */,
 				C8DB31D1215E4A1B006566F3 /* Resources */,
-				C8DB31EC215E4A9D006566F3 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
