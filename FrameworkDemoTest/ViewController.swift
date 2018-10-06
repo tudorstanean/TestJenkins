@@ -6,7 +6,7 @@
 //  Copyright © 2018 Tudor Dan Stanean. All rights reserved.
 //
 
-import UIKitFrameworkDemo
+import UIKit
 import TestFramework
 
 class ViewController: UIViewController {
